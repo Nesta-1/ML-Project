@@ -1,0 +1,98 @@
+[
+    {
+        "text": "fk you",
+        "initial": {
+            "prediction": "Not Cyberbullying",
+            "prob_cb": 0.39274874247583924
+        },
+        "present": {
+            "prediction": "Cyberbullying",
+            "prob_cb": 0.8668869283147038
+        },
+        "change": 0.4741381858388646
+    },
+    {
+        "text": "fuck you",
+        "initial": {
+            "prediction": "Not Cyberbullying",
+            "prob_cb": 0.41326763571590497
+        },
+        "present": {
+            "prediction": "Cyberbullying",
+            "prob_cb": 0.9713925380409063
+        },
+        "change": 0.5581249023250013
+    },
+    {
+        "text": "kill yourself",
+        "initial": {
+            "prediction": "Not Cyberbullying",
+            "prob_cb": 0.4635441736447769
+        },
+        "present": {
+            "prediction": "Cyberbullying",
+            "prob_cb": 0.93386516407075
+        },
+        "change": 0.47032099042597314
+    },
+    {
+        "text": "hello world",
+        "initial": {
+            "prediction": "Not Cyberbullying",
+            "prob_cb": 0.39512541857977096
+        },
+        "present": {
+            "prediction": "Not Cyberbullying",
+            "prob_cb": 0.5370868617260539
+        },
+        "change": 0.14196144314628295
+    },
+    {
+        "text": "you are amazing",
+        "initial": {
+            "prediction": "Not Cyberbullying",
+            "prob_cb": 0.34559820475083314
+        },
+        "present": {
+            "prediction": "Not Cyberbullying",
+            "prob_cb": 0.04279348155977884
+        },
+        "change": -0.3028047231910543
+    },
+    {
+        "text": "u r stupid",
+        "initial": {
+            "prediction": "Not Cyberbullying",
+            "prob_cb": 0.4614056668998197
+        },
+        "present": {
+            "prediction": "Cyberbullying",
+            "prob_cb": 0.9590420414092061
+        },
+        "change": 0.4976363745093864
+    },
+    {
+        "text": "go die",
+        "initial": {
+            "prediction": "Not Cyberbullying",
+            "prob_cb": 0.4383485059391138
+        },
+        "present": {
+            "prediction": "Cyberbullying",
+            "prob_cb": 0.9535023522174312
+        },
+        "change": 0.5151538462783174
+    },
+    {
+        "text": "have a nice day",
+        "initial": {
+            "prediction": "Not Cyberbullying",
+            "prob_cb": 0.363997635852107
+        },
+        "present": {
+            "prediction": "Not Cyberbullying",
+            "prob_cb": 0.033739319788273235
+        },
+        "change": -0.33025831606383377
+    }
+]

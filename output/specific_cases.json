@@ -1,0 +1,201 @@
+[
+    {
+        "text": "fk you",
+        "processed_text": "",
+        "prediction": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.39274874247583924,
+            "Not Cyberbullying": 0.6072512575241605
+        },
+        "vader_scores": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        },
+        "tokens": []
+    },
+    {
+        "text": "fuck you",
+        "processed_text": "fuck",
+        "prediction": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.41326763571590497,
+            "Not Cyberbullying": 0.5867323642840949
+        },
+        "vader_scores": {
+            "compound": -0.5423,
+            "positive": 0.0,
+            "neutral": 0.222,
+            "negative": 0.778
+        },
+        "tokens": [
+            "fuck"
+        ]
+    },
+    {
+        "text": "you are invalid",
+        "processed_text": "invalid",
+        "prediction": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.39274874247583924,
+            "Not Cyberbullying": 0.6072512575241605
+        },
+        "vader_scores": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        },
+        "tokens": [
+            "invalid"
+        ]
+    },
+    {
+        "text": "kill yourself",
+        "processed_text": "kill",
+        "prediction": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.4635441736447769,
+            "Not Cyberbullying": 0.536455826355223
+        },
+        "vader_scores": {
+            "compound": -0.6908,
+            "positive": 0.0,
+            "neutral": 0.175,
+            "negative": 0.825
+        },
+        "tokens": [
+            "kill"
+        ]
+    },
+    {
+        "text": "you are a waste of space",
+        "processed_text": "waste space",
+        "prediction": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.4286597429869359,
+            "Not Cyberbullying": 0.5713402570130639
+        },
+        "vader_scores": {
+            "compound": -0.4215,
+            "positive": 0.0,
+            "neutral": 0.641,
+            "negative": 0.359
+        },
+        "tokens": [
+            "waste",
+            "space"
+        ]
+    },
+    {
+        "text": "you fail at life",
+        "processed_text": "fail life",
+        "prediction": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.43526989197527366,
+            "Not Cyberbullying": 0.5647301080247261
+        },
+        "vader_scores": {
+            "compound": -0.5423,
+            "positive": 0.0,
+            "neutral": 0.462,
+            "negative": 0.538
+        },
+        "tokens": [
+            "fail",
+            "life"
+        ]
+    },
+    {
+        "text": "hello world",
+        "processed_text": "hello world",
+        "prediction": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.39512541857977096,
+            "Not Cyberbullying": 0.6048745814202288
+        },
+        "vader_scores": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        },
+        "tokens": [
+            "hello",
+            "world"
+        ]
+    },
+    {
+        "text": "you are amazing",
+        "processed_text": "amazing",
+        "prediction": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.34559820475083314,
+            "Not Cyberbullying": 0.6544017952491668
+        },
+        "vader_scores": {
+            "compound": 0.5859,
+            "positive": 0.655,
+            "neutral": 0.345,
+            "negative": 0.0
+        },
+        "tokens": [
+            "amazing"
+        ]
+    },
+    {
+        "text": "i hate you",
+        "processed_text": "hate",
+        "prediction": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.4255181290187748,
+            "Not Cyberbullying": 0.5744818709812249
+        },
+        "vader_scores": {
+            "compound": -0.5719,
+            "positive": 0.0,
+            "neutral": 0.351,
+            "negative": 0.649
+        },
+        "tokens": [
+            "hate"
+        ]
+    },
+    {
+        "text": "i dislike you",
+        "processed_text": "dislike",
+        "prediction": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.4273040623678998,
+            "Not Cyberbullying": 0.5726959376321
+        },
+        "vader_scores": {
+            "compound": -0.3818,
+            "positive": 0.0,
+            "neutral": 0.435,
+            "negative": 0.565
+        },
+        "tokens": [
+            "dislike"
+        ]
+    },
+    {
+        "text": "this is bad",
+        "processed_text": "bad",
+        "prediction": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.43486070474934296,
+            "Not Cyberbullying": 0.5651392952506569
+        },
+        "vader_scores": {
+            "compound": -0.5423,
+            "positive": 0.0,
+            "neutral": 0.364,
+            "negative": 0.636
+        },
+        "tokens": [
+            "bad"
+        ]
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "text": "fk you",
+        "prediction": "Cyberbullying",
+        "confidence": 0.8668869283147038,
+        "probs": {
+            "Cyberbullying": 0.8668869283147038,
+            "Not Cyberbullying": 0.1331130716852965
+        },
+        "tokens": [
+            "fk"
+        ]
+    },
+    {
+        "text": "fuck you",
+        "prediction": "Cyberbullying",
+        "confidence": 0.9713925380409063,
+        "probs": {
+            "Cyberbullying": 0.9713925380409063,
+            "Not Cyberbullying": 0.028607461959093777
+        },
+        "tokens": [
+            "fuck"
+        ]
+    },
+    {
+        "text": "kill yourself",
+        "prediction": "Cyberbullying",
+        "confidence": 0.93386516407075,
+        "probs": {
+            "Cyberbullying": 0.93386516407075,
+            "Not Cyberbullying": 0.06613483592924999
+        },
+        "tokens": [
+            "kill"
+        ]
+    },
+    {
+        "text": "hello world",
+        "prediction": "Not Cyberbullying",
+        "confidence": 0.4629131382739461,
+        "probs": {
+            "Cyberbullying": 0.5370868617260539,
+            "Not Cyberbullying": 0.4629131382739461
+        },
+        "tokens": [
+            "hello",
+            "world"
+        ]
+    },
+    {
+        "text": "you are amazing",
+        "prediction": "Not Cyberbullying",
+        "confidence": 0.9572065184402209,
+        "probs": {
+            "Cyberbullying": 0.04279348155977884,
+            "Not Cyberbullying": 0.9572065184402209
+        },
+        "tokens": [
+            "amazing"
+        ]
+    }
+]

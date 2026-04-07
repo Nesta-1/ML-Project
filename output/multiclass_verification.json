@@ -1,0 +1,66 @@
+[
+    {
+        "text": "gay",
+        "expected": "gender",
+        "predicted": "Cyberbullying",
+        "category": "gender",
+        "probability": 1.0,
+        "status": "PASS"
+    },
+    {
+        "text": "terrorist",
+        "expected": "religion",
+        "predicted": "Cyberbullying",
+        "category": "religion",
+        "probability": 1.0,
+        "status": "PASS"
+    },
+    {
+        "text": "nigger",
+        "expected": "ethnicity",
+        "predicted": "Cyberbullying",
+        "category": "ethnicity",
+        "probability": 1.0,
+        "status": "PASS"
+    },
+    {
+        "text": "kill yourself",
+        "expected": "other_cyberbullying",
+        "predicted": "Cyberbullying",
+        "category": "other_cyberbullying",
+        "probability": 1.0,
+        "status": "PASS"
+    },
+    {
+        "text": "fk you",
+        "expected": "other_cyberbullying",
+        "predicted": "Cyberbullying",
+        "category": "other_cyberbullying",
+        "probability": 1.0,
+        "status": "PASS"
+    },
+    {
+        "text": "hello world",
+        "expected": "not_cyberbullying",
+        "predicted": "Cyberbullying",
+        "category": "gender",
+        "probability": 0.97,
+        "status": "FAIL"
+    },
+    {
+        "text": "school shooter",
+        "expected": "age",
+        "predicted": "Cyberbullying",
+        "category": "age",
+        "probability": 1.0,
+        "status": "PASS"
+    },
+    {
+        "text": "you are a bitch",
+        "expected": "gender",
+        "predicted": "Cyberbullying",
+        "category": "gender",
+        "probability": 1.0,
+        "status": "PASS"
+    }
+]

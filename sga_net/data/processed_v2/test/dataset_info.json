@@ -1,0 +1,46 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "clean_text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "labels": {
+      "dtype": "int32",
+      "_type": "Value"
+    },
+    "sentiment_compound": {
+      "dtype": "float32",
+      "_type": "Value"
+    },
+    "sentiment_pos": {
+      "dtype": "float32",
+      "_type": "Value"
+    },
+    "sentiment_neg": {
+      "dtype": "float32",
+      "_type": "Value"
+    },
+    "sentiment_neu": {
+      "dtype": "float32",
+      "_type": "Value"
+    },
+    "input_ids": {
+      "feature": {
+        "dtype": "int32",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "attention_mask": {
+      "feature": {
+        "dtype": "int8",
+        "_type": "Value"
+      },
+      "_type": "List"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

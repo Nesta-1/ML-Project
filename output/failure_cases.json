@@ -1,0 +1,1502 @@
+[
+    {
+        "text": "The blondies eliminated ... Feckkkk #mkr",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.2978052124408841,
+            "Not Cyberbullying": 0.7021947875591154
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "Men joke about rape: \"It's just a joke! Women have no sense of humor!\" Women joke about consensual sex: \"Women are too raunchy! Not funny!\"",
+        "true_label": "Not Cyberbullying",
+        "predicted_label": "Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.6801158843340356,
+            "Not Cyberbullying": 0.31988411566596514
+        },
+        "vader": {
+            "compound": -0.5823,
+            "positive": 0.234,
+            "neutral": 0.484,
+            "negative": 0.282
+        }
+    },
+    {
+        "text": "#mkr nikki has hot teeth",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.3480389891823299,
+            "Not Cyberbullying": 0.65196101081767
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "Oops he meant Katie #bigthighs #mkr",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.3481417834374373,
+            "Not Cyberbullying": 0.6518582165625625
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "RT @missgypsyck: Sassy.. More like trashy #MKR2015 #MKR",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.3503426501392181,
+            "Not Cyberbullying": 0.6496573498607817
+        },
+        "vader": {
+            "compound": 0.4201,
+            "positive": 0.285,
+            "neutral": 0.715,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "Do Kat &amp; Andre have any shame or integrity? They can't even pretend to be gracious. #mkr",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.3531404141070889,
+            "Not Cyberbullying": 0.6468595858929109
+        },
+        "vader": {
+            "compound": 0.5261,
+            "positive": 0.318,
+            "neutral": 0.551,
+            "negative": 0.131
+        }
+    },
+    {
+        "text": "@codyks Chick-Fil-A = bonus.",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.3558016315129396,
+            "Not Cyberbullying": 0.6441983684870604
+        },
+        "vader": {
+            "compound": 0.5423,
+            "positive": 0.538,
+            "neutral": 0.462,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "Well... The Hoes might pull this off.... Pardon the pun!! #mkr",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.3559702035097939,
+            "Not Cyberbullying": 0.6440297964902061
+        },
+        "vader": {
+            "compound": 0.6103,
+            "positive": 0.356,
+            "neutral": 0.644,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "yeah colin would be looking for more fat in his sausage.... #MKR",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.3561226210159542,
+            "Not Cyberbullying": 0.6438773789840458
+        },
+        "vader": {
+            "compound": 0.296,
+            "positive": 0.167,
+            "neutral": 0.833,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "Good morning...good morning..good moooooorning",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.3589504047134223,
+            "Not Cyberbullying": 0.6410495952865776
+        },
+        "vader": {
+            "compound": 0.4404,
+            "positive": 0.492,
+            "neutral": 0.508,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "RT @Shermertron: Gotta love exchanges like these. #QuestionsForMen #WhatFeminismGaveMe http://t.co/WuZiRVTHSy",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.3602196595254863,
+            "Not Cyberbullying": 0.6397803404745137
+        },
+        "vader": {
+            "compound": 0.7717,
+            "positive": 0.456,
+            "neutral": 0.544,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "RT @Itsjust55496420: Annie looks like a mouse #mkr",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.3617053548555343,
+            "Not Cyberbullying": 0.6382946451444654
+        },
+        "vader": {
+            "compound": 0.3612,
+            "positive": 0.263,
+            "neutral": 0.737,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "@judyk113 Yeah, we're going to have neither, but it's all good. Hope you do.",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.36378524334291307,
+            "Not Cyberbullying": 0.6362147566570867
+        },
+        "vader": {
+            "compound": 0.8519,
+            "positive": 0.458,
+            "neutral": 0.542,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "Get Gordon Ramsay on there he'll sort #cuntandandre out\n#mkr",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.3644076316740425,
+            "Not Cyberbullying": 0.6355923683259573
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "RT @jgray0711: Get Gordon Ramsay on there he'll sort #cuntandandre out\n#mkr",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.3644076316740425,
+            "Not Cyberbullying": 0.6355923683259573
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "If the sassy models are really studying psychology they should know all about narcissism... #mkr",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.3687617818669268,
+            "Not Cyberbullying": 0.6312382181330729
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "@ardentlyaphotic Please answer... http://t.co/m7i3NFQsDY",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.3707512234222242,
+            "Not Cyberbullying": 0.6292487765777754
+        },
+        "vader": {
+            "compound": 0.3182,
+            "positive": 0.434,
+            "neutral": 0.566,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "Kat calls it strategic, I call it being a biatch! #mkr http://t.co/zVCx6kVAIV",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.37409008882083944,
+            "Not Cyberbullying": 0.6259099111791603
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "RT @vivaashleighxo: #killerblondes as the tag for #mkr?? Seriously. #killertwats you mean",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.37503864286363736,
+            "Not Cyberbullying": 0.6249613571363626
+        },
+        "vader": {
+            "compound": -0.264,
+            "positive": 0.0,
+            "neutral": 0.842,
+            "negative": 0.158
+        }
+    },
+    {
+        "text": "RT @childishxbreezy: LOOOL what goes around comes around, Kat should just shut up #MKR",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.376050210735472,
+            "Not Cyberbullying": 0.6239497892645278
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "@Fred0828 yeah 16kg is around 40lbs Glad you liked the interview I did with Steve Cotter; Quigong is sucha valuable part of any training",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.3762684266284713,
+            "Not Cyberbullying": 0.6237315733715287
+        },
+        "vader": {
+            "compound": 0.8779,
+            "positive": 0.357,
+            "neutral": 0.643,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "Has there been a more genuinely hate worthy individual than that goblin, Kat? #MKR",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.37810483024261365,
+            "Not Cyberbullying": 0.6218951697573862
+        },
+        "vader": {
+            "compound": -0.2058,
+            "positive": 0.165,
+            "neutral": 0.627,
+            "negative": 0.208
+        }
+    },
+    {
+        "text": "to be honest I would rather have had those \"models\" stay #mkr",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.37853901764235276,
+            "Not Cyberbullying": 0.6214609823576471
+        },
+        "vader": {
+            "compound": 0.5106,
+            "positive": 0.231,
+            "neutral": 0.769,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "@mykitchenrules @bjtqld:  #mkr2015 #mkr I think Kat thinks she is the best chef ever. Ah hello no",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.3812193174986902,
+            "Not Cyberbullying": 0.6187806825013096
+        },
+        "vader": {
+            "compound": 0.4588,
+            "positive": 0.196,
+            "neutral": 0.701,
+            "negative": 0.103
+        }
+    },
+    {
+        "text": "\u201c@IvanTrba: At least the #promogirls might have a future in creating new Ben &amp; Jerry's flavours #MKR #icecreamqueens\u201d\n\nOffal and marrow?",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.38348172476051695,
+            "Not Cyberbullying": 0.6165182752394828
+        },
+        "vader": {
+            "compound": 0.296,
+            "positive": 0.099,
+            "neutral": 0.901,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "#mkr the only thing funnier than an upside down ice cream maker insert?  When my brother's ex wife admitted to burning water.",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.3844174090426815,
+            "Not Cyberbullying": 0.6155825909573184
+        },
+        "vader": {
+            "compound": 0.4767,
+            "positive": 0.17,
+            "neutral": 0.83,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "@mykitchenrules Kat be humiliated from your attitude.. Not your cooking. #MKR",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.38466333318694274,
+            "Not Cyberbullying": 0.615336666813057
+        },
+        "vader": {
+            "compound": -0.34,
+            "positive": 0.0,
+            "neutral": 0.806,
+            "negative": 0.194
+        }
+    },
+    {
+        "text": "@rowanberry ohhh sending loads of Positive vibes your way",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.38650176262759806,
+            "Not Cyberbullying": 0.6134982373724018
+        },
+        "vader": {
+            "compound": 0.5574,
+            "positive": 0.31,
+            "neutral": 0.69,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "@ShreyaBafna3 Now you idiots claim that people who tried to stop him from becoming a terrorist made him a terrorist. Islamically brain dead.",
+        "true_label": "Not Cyberbullying",
+        "predicted_label": "Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.6126146845407695,
+            "Not Cyberbullying": 0.3873853154592306
+        },
+        "vader": {
+            "compound": -0.9509,
+            "positive": 0.0,
+            "neutral": 0.544,
+            "negative": 0.456
+        }
+    },
+    {
+        "text": "I didn't know they were models #MKR",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.38755159928039945,
+            "Not Cyberbullying": 0.6124484007196005
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "thanks #Aylesbury #Audi for very quick service in fitting shiny new number plates",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.38942299930631874,
+            "Not Cyberbullying": 0.6105770006936811
+        },
+        "vader": {
+            "compound": 0.4939,
+            "positive": 0.276,
+            "neutral": 0.724,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "\ud83d\udcda |\u2022\n\n\u2022| new article\n\n\u2022| I beg your pardon, so forgive me\n\n\u270f | I ask God the testimony @qq0p9\n\nhttps://t.co/PLAG0m1KXT https://t.co/rnvpx7cjMb",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.3903187485924633,
+            "Not Cyberbullying": 0.6096812514075365
+        },
+        "vader": {
+            "compound": 0.7304,
+            "positive": 0.263,
+            "neutral": 0.737,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "@shaner38 @scarmichael18 Would rather.",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.39274874247583924,
+            "Not Cyberbullying": 0.6072512575241605
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "RT @The_Loki_Jotunn: @MT8_9 http://t.co/zKfxu8VW7Z",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.39274874247583924,
+            "Not Cyberbullying": 0.6072512575241605
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "Former Russian ambassador to receive him what he deserves and deserves\u2026 https://t.co/HGE3fjg1Sw",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.39274874247583924,
+            "Not Cyberbullying": 0.6072512575241605
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "RT @SexyIsntSexist: #WageGap #Sorted http://t.co/IcfnjO2h1u",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.39274874247583924,
+            "Not Cyberbullying": 0.6072512575241605
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "@obsurfer84 Furthermore, all the Hadiths about Aisha's age are classified as Sahih - meaning Sound.",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.39274874247583924,
+            "Not Cyberbullying": 0.6072512575241605
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "@nonirishpaddy @reverenddg ...with a flat face.  The nose = a bay window.",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.39274874247583924,
+            "Not Cyberbullying": 0.6072512575241605
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "RT @Thoughtoffense: #gamergate #femfreq #antisjw http://t.co/EO8Gi9qYOK",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.3938437305836736,
+            "Not Cyberbullying": 0.6061562694163262
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "@ozazure I just trimmed it. I'll post photos soon",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.3941424865098686,
+            "Not Cyberbullying": 0.6058575134901312
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "RT @abbasalbejawi: #Shia heretic tells the turh with out Taqiya that al-Baghdadi is doing the same thing Abu Bakr al-Siddiq did \n\nhttps://t.co/YTDn6eKHti",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.39424993989069745,
+            "Not Cyberbullying": 0.6057500601093023
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "@Ali_Gharib @NuritBaytch In what way is Blumenthal Jewish, other than by birth. Answer the question.",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.39469120100565136,
+            "Not Cyberbullying": 0.6053087989943484
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "Random thought #471729.I'm so glad I live in the time of GPS on my cell and navi in my car bc NOTHING confused me m\u2026 https://t.co/QwvphlC58Q",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.39533526764750476,
+            "Not Cyberbullying": 0.6046647323524952
+        },
+        "vader": {
+            "compound": 0.703,
+            "positive": 0.195,
+            "neutral": 0.805,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "RT @pwreclive: @YesYoureSexist male led empires usually fall do to listening to wifey or more often mom which shows who was really in runni\u2026",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.395461092107734,
+            "Not Cyberbullying": 0.6045389078922659
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "RT @Shahan_Amin: What did the doctor say to Sarah Silverman's parents? #SorryItsAFeminist",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.39570006139952196,
+            "Not Cyberbullying": 0.6042999386004779
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "RT @FakeToniaTodman: If Kat stays, we can watch her descent into meth induced insanity. #mkr",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.3966118916342888,
+            "Not Cyberbullying": 0.6033881083657109
+        },
+        "vader": {
+            "compound": -0.5719,
+            "positive": 0.0,
+            "neutral": 0.791,
+            "negative": 0.209
+        }
+    },
+    {
+        "text": "Kat has certainly set herself up for much pounding... I hope she is saved from it by being the first to go... She is quite horrid #mkr",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.39665481234892697,
+            "Not Cyberbullying": 0.6033451876510728
+        },
+        "vader": {
+            "compound": 0.5118,
+            "positive": 0.232,
+            "neutral": 0.659,
+            "negative": 0.109
+        }
+    },
+    {
+        "text": "RT @SergeantKozi: @radioclashed @MT8_9 @CatsAreHorrible @thisonesakillaa @HoneyBadgerBite @naughty_nerdess That didn't take much http://t.c\u2026",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.3981141122811466,
+            "Not Cyberbullying": 0.6018858877188533
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "@Laarrma Why, because she backed straight into your balls? Because that's what I would do, with scientific precision.",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.39874515760155504,
+            "Not Cyberbullying": 0.6012548423984447
+        },
+        "vader": {
+            "compound": 0.25,
+            "positive": 0.158,
+            "neutral": 0.842,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "@trishesdishes Go back to the top of this thread and read again, then.",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.39948470653149115,
+            "Not Cyberbullying": 0.6005152934685085
+        },
+        "vader": {
+            "compound": 0.2023,
+            "positive": 0.13,
+            "neutral": 0.87,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "if he calls tell him to stop being a total bitch  get off his high horse  and loan me some money",
+        "true_label": "Not Cyberbullying",
+        "predicted_label": "Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.5994513704815759,
+            "Not Cyberbullying": 0.40054862951842424
+        },
+        "vader": {
+            "compound": -0.7425,
+            "positive": 0.0,
+            "neutral": 0.751,
+            "negative": 0.249
+        }
+    },
+    {
+        "text": "Nikki &amp; Katie is what happens when parents continually tell their kids, \"You're a winner in my eyes.\" &amp; avoid constructive feedback #mkr",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.40361485835220307,
+            "Not Cyberbullying": 0.5963851416477968
+        },
+        "vader": {
+            "compound": 0.3818,
+            "positive": 0.141,
+            "neutral": 0.778,
+            "negative": 0.081
+        }
+    },
+    {
+        "text": "Fuck you Kat!! #MKR",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.4053896415560594,
+            "Not Cyberbullying": 0.5946103584439405
+        },
+        "vader": {
+            "compound": -0.6229,
+            "positive": 0.0,
+            "neutral": 0.423,
+            "negative": 0.577
+        }
+    },
+    {
+        "text": "Tired of living day by day like everything\u2019s alright",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.4059926419415639,
+            "Not Cyberbullying": 0.594007358058436
+        },
+        "vader": {
+            "compound": 0.1531,
+            "positive": 0.336,
+            "neutral": 0.448,
+            "negative": 0.216
+        }
+    },
+    {
+        "text": "@Starius @38fanda Shhh...it's funnier when they don't know... http://t.co/c8CtwSTqrY",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.4061647241658873,
+            "Not Cyberbullying": 0.5938352758341126
+        },
+        "vader": {
+            "compound": 0.4019,
+            "positive": 0.252,
+            "neutral": 0.748,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "RT @fruitondabottom: #QuestionsForMen #WomenAgainstFeminism Another one who only wants to hear herself talk. http://t.co/I9gvXqZQj1",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.40637908267966644,
+            "Not Cyberbullying": 0.5936209173203335
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "#MKR @mykitchenrules I hope Kat (The cat) and Andre lose and leave the show. Kat is a nasty piece of work who can't win fairly",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.4081116880808741,
+            "Not Cyberbullying": 0.5918883119191258
+        },
+        "vader": {
+            "compound": -0.7699,
+            "positive": 0.087,
+            "neutral": 0.598,
+            "negative": 0.316
+        }
+    },
+    {
+        "text": "@thehiredmind You can have this one. Untag.  Thanks. I've gotten what I need from her... http://t.co/rP894UHMYJ",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.40956389296842916,
+            "Not Cyberbullying": 0.5904361070315709
+        },
+        "vader": {
+            "compound": 0.4404,
+            "positive": 0.162,
+            "neutral": 0.838,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "@RichardDawkins @AbuelitoSerge Same goes for the term \"Islamophobia\". It makes as much sense as \"Naziphobia\".",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.4105949700833604,
+            "Not Cyberbullying": 0.5894050299166395
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "#MKR Kat: the Wicked Witch from the West",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.41149812440260886,
+            "Not Cyberbullying": 0.588501875597391
+        },
+        "vader": {
+            "compound": -0.7096,
+            "positive": 0.0,
+            "neutral": 0.504,
+            "negative": 0.496
+        }
+    },
+    {
+        "text": "@LeoKikiLady89 Not concerned w/ equal here... http://t.co/7DOkGSR8lG",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.41187911939740124,
+            "Not Cyberbullying": 0.5881208806025986
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "RT @arisroussinos: Literally, every single approach road or track or open field to Mosul is covered by Peshmerga outposts now http://t.co/Y\u2026",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.4123043239287757,
+            "Not Cyberbullying": 0.5876956760712241
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "@MeReachingout @GodfreyElfwick ...a pitch perfect parody.  My bad.",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.41337156828899246,
+            "Not Cyberbullying": 0.5866284317110072
+        },
+        "vader": {
+            "compound": 0.0516,
+            "positive": 0.28,
+            "neutral": 0.455,
+            "negative": 0.265
+        }
+    },
+    {
+        "text": " `` im very sexy `` My fucking ass. duuude that made me laugh so fucking hardd(: thank&;s for making my day ;D",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.4135849655980865,
+            "Not Cyberbullying": 0.5864150344019134
+        },
+        "vader": {
+            "compound": 0.7213,
+            "positive": 0.311,
+            "neutral": 0.569,
+            "negative": 0.12
+        }
+    },
+    {
+        "text": "just got out of the shower. nothing says 'wake up' like body lotion in your hair",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.4149908452873197,
+            "Not Cyberbullying": 0.5850091547126802
+        },
+        "vader": {
+            "compound": 0.3612,
+            "positive": 0.143,
+            "neutral": 0.857,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "Sounds more reasonable. I hate having to buy 8+ presents for my very small family alone. Soulless Myer gift cards FTW",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.41502018911413996,
+            "Not Cyberbullying": 0.5849798108858597
+        },
+        "vader": {
+            "compound": 0.1042,
+            "positive": 0.222,
+            "neutral": 0.569,
+            "negative": 0.209
+        }
+    },
+    {
+        "text": "lmfao! See this why I can't fuck w u! U kno I'm dead offa that Al B Shep!....",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.4158804240836255,
+            "Not Cyberbullying": 0.5841195759163743
+        },
+        "vader": {
+            "compound": 0.4453,
+            "positive": 0.272,
+            "neutral": 0.565,
+            "negative": 0.162
+        }
+    },
+    {
+        "text": "lmfao! See this why I can't fuck w u! U kno I'm dead offa that Al B Shep!....",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.4158804240836255,
+            "Not Cyberbullying": 0.5841195759163743
+        },
+        "vader": {
+            "compound": 0.4453,
+            "positive": 0.272,
+            "neutral": 0.565,
+            "negative": 0.162
+        }
+    },
+    {
+        "text": "@CamilleHughes16 @edbarber101658 @_Watch_Observe_ Then export all the non citizen Imams. Put cameras in the remaining Mosques.",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.416057536902564,
+            "Not Cyberbullying": 0.5839424630974359
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "RT @brofreq: I was fortunate to catch this right when it was posted, 4th reply in. Get rekt Anita. #GamerGate http://t.co/PCtrrmpV2y",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.41616264257288643,
+            "Not Cyberbullying": 0.5838373574271136
+        },
+        "vader": {
+            "compound": 0.4404,
+            "positive": 0.127,
+            "neutral": 0.873,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "@AndyG244 @Thearetical @Demon31G They are lying. The terrorist do exactly what the prophet Mohammed did. #Islam",
+        "true_label": "Not Cyberbullying",
+        "predicted_label": "Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.5831992748613236,
+            "Not Cyberbullying": 0.4168007251386765
+        },
+        "vader": {
+            "compound": -0.8442,
+            "positive": 0.0,
+            "neutral": 0.633,
+            "negative": 0.367
+        }
+    },
+    {
+        "text": "feel like running away, far away, in a great place where no one can find me.",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.41749706222670285,
+            "Not Cyberbullying": 0.5825029377732972
+        },
+        "vader": {
+            "compound": 0.6597,
+            "positive": 0.303,
+            "neutral": 0.596,
+            "negative": 0.101
+        }
+    },
+    {
+        "text": "damn kenny u need emotional condoms and shit son.",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.41814484988315975,
+            "Not Cyberbullying": 0.5818551501168402
+        },
+        "vader": {
+            "compound": -0.6908,
+            "positive": 0.115,
+            "neutral": 0.432,
+            "negative": 0.453
+        }
+    },
+    {
+        "text": "Not really. Atlantis was okay. Old Star Gate on now. Was about to watch Numbers. Might do Sudoku instead unless u ready u fuck :)",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.4187275623724075,
+            "Not Cyberbullying": 0.5812724376275924
+        },
+        "vader": {
+            "compound": 0.4877,
+            "positive": 0.238,
+            "neutral": 0.653,
+            "negative": 0.109
+        }
+    },
+    {
+        "text": "@shaner38 Avs REALLY needed the D man too...but they made right pick.",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.4188890592200067,
+            "Not Cyberbullying": 0.5811109407799933
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "RT @NiceAntiFem: #WomenAgainstFeminism Because they'd rather be sorry than safe. #feminism  #YesAllWomen http://t.co/QEi25Bx6lz",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.41926419339500287,
+            "Not Cyberbullying": 0.5807358066049969
+        },
+        "vader": {
+            "compound": 0.3818,
+            "positive": 0.191,
+            "neutral": 0.724,
+            "negative": 0.086
+        }
+    },
+    {
+        "text": "They were just used as scapegoats, but alhamdulilah their ordeal is finally over.  https://t.co/FU0lB3YjjB",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.4192895290911005,
+            "Not Cyberbullying": 0.5807104709088994
+        },
+        "vader": {
+            "compound": -0.1779,
+            "positive": 0.0,
+            "neutral": 0.884,
+            "negative": 0.116
+        }
+    },
+    {
+        "text": "RT @JimmieAthletics: Congratulations to @JimmieFootball OL Anthony Vereen for being named GPAC Football First Team Offense 2018! #GoJimmies\u2026",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.41950075510157125,
+            "Not Cyberbullying": 0.5804992448984286
+        },
+        "vader": {
+            "compound": 0.4926,
+            "positive": 0.189,
+            "neutral": 0.721,
+            "negative": 0.09
+        }
+    },
+    {
+        "text": "@_d_n_verg_ @stevesalaita Palestinians are half Egyptian and half Saudi. Palestinians are the spearhead for the Arabs against the Jews.",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.42049405268453716,
+            "Not Cyberbullying": 0.5795059473154628
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "@ameytahl Leave it to some microbrain to get sanctimonious by finding a way to play the race card.",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.4205003444521475,
+            "Not Cyberbullying": 0.5794996555478523
+        },
+        "vader": {
+            "compound": 0.296,
+            "positive": 0.122,
+            "neutral": 0.816,
+            "negative": 0.061
+        }
+    },
+    {
+        "text": "hahaha honestly i fucking CRACK up on shit like that ppl need to srsly LIGHTEN up &lt;3333 ya",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.4211273970636444,
+            "Not Cyberbullying": 0.5788726029363557
+        },
+        "vader": {
+            "compound": 0.6705,
+            "positive": 0.341,
+            "neutral": 0.524,
+            "negative": 0.135
+        }
+    },
+    {
+        "text": "@nonirishpaddy @SirScatters Who said anything about hitting?",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.42123272114013655,
+            "Not Cyberbullying": 0.5787672788598635
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "Fuck cat u are even uglier when u smile u bbbbitch #mkr",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.4234994569905982,
+            "Not Cyberbullying": 0.5765005430094015
+        },
+        "vader": {
+            "compound": -0.6369,
+            "positive": 0.137,
+            "neutral": 0.495,
+            "negative": 0.368
+        }
+    },
+    {
+        "text": "atrocious script, racist, sexist, and most of all boring as fuck",
+        "true_label": "Not Cyberbullying",
+        "predicted_label": "Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.5755758754859851,
+            "Not Cyberbullying": 0.42442412451401507
+        },
+        "vader": {
+            "compound": -0.8768,
+            "positive": 0.0,
+            "neutral": 0.443,
+            "negative": 0.557
+        }
+    },
+    {
+        "text": "@ingyusarms The Quran writer imagined god as egotistical and as wanting to be worshiped and bowed to because he was unsophisticated.",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.4246828848439864,
+            "Not Cyberbullying": 0.5753171151560135
+        },
+        "vader": {
+            "compound": 0.34,
+            "positive": 0.207,
+            "neutral": 0.639,
+            "negative": 0.154
+        }
+    },
+    {
+        "text": "I hate him.",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.4255181290187748,
+            "Not Cyberbullying": 0.5744818709812249
+        },
+        "vader": {
+            "compound": -0.5719,
+            "positive": 0.0,
+            "neutral": 0.351,
+            "negative": 0.649
+        }
+    },
+    {
+        "text": "RT @nonirishpaddy: If someone hates you, it's because of what's between your ears, not what's between your legs #adviceforyoungfeminists",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.42594852072592354,
+            "Not Cyberbullying": 0.5740514792740765
+        },
+        "vader": {
+            "compound": -0.4404,
+            "positive": 0.0,
+            "neutral": 0.861,
+            "negative": 0.139
+        }
+    },
+    {
+        "text": "@OneLegSandpiper @DblBlackDs But Islam is the source and dealing with the symptom accomplishes zero. After ISIS and the rest will be more.",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.42686498404539736,
+            "Not Cyberbullying": 0.5731350159546027
+        },
+        "vader": {
+            "compound": 0.5499,
+            "positive": 0.145,
+            "neutral": 0.855,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "@shehzilk @watan71969 You dumb asshole, he legalized slavery, he raped slave girls, he was a pedophile. How can you call him great anything.",
+        "true_label": "Not Cyberbullying",
+        "predicted_label": "Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.5728743122798406,
+            "Not Cyberbullying": 0.42712568772015913
+        },
+        "vader": {
+            "compound": -0.8625,
+            "positive": 0.115,
+            "neutral": 0.531,
+            "negative": 0.355
+        }
+    },
+    {
+        "text": "RT @mensrightsrdt: #mensrights@reddit http://t.co/voFfUHmnAs petition to call attention to Judge Kathleen McCar... http://t.co/TJlTPFd00n #\u2026",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.42733060474905193,
+            "Not Cyberbullying": 0.572669395250948
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "So Drasko just said he was impressed the girls cooked half a chicken.. They cooked a whole one  #MKR",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.42811276161146716,
+            "Not Cyberbullying": 0.571887238388533
+        },
+        "vader": {
+            "compound": 0.4767,
+            "positive": 0.147,
+            "neutral": 0.853,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "@harmlesstree2 Listen to me dumb shit. I'm not advocating a Roman Empire. We have moved beyond Roman empires. The Muslims have moved nowhere",
+        "true_label": "Not Cyberbullying",
+        "predicted_label": "Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.5714618392241224,
+            "Not Cyberbullying": 0.4285381607758776
+        },
+        "vader": {
+            "compound": -0.7845,
+            "positive": 0.0,
+            "neutral": 0.753,
+            "negative": 0.247
+        }
+    },
+    {
+        "text": ".@scarmichael18 @shaner38 She will often not know.  It should be opt in not opt out so that he must be told.  Or else they will hide it.",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.4285819539451243,
+            "Not Cyberbullying": 0.5714180460548757
+        },
+        "vader": {
+            "compound": -0.1779,
+            "positive": 0.0,
+            "neutral": 0.939,
+            "negative": 0.061
+        }
+    },
+    {
+        "text": "@Anthony3291 If they had any shame or self awareness, sure...",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.4290929254698962,
+            "Not Cyberbullying": 0.5709070745301035
+        },
+        "vader": {
+            "compound": -0.2023,
+            "positive": 0.172,
+            "neutral": 0.597,
+            "negative": 0.231
+        }
+    },
+    {
+        "text": "@_d_n_verg_ @stevesalaita Look at this ranting lunatic Palestinian. Interesting what he tells us. https://t.co/8cmfoOZwxz",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.42951364289856897,
+            "Not Cyberbullying": 0.5704863571014309
+        },
+        "vader": {
+            "compound": -0.128,
+            "positive": 0.151,
+            "neutral": 0.67,
+            "negative": 0.179
+        }
+    },
+    {
+        "text": "@SirScatters @nonirishpaddy Oh, missed that part of it.  No...no reason to get physical.",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.43056470397995794,
+            "Not Cyberbullying": 0.5694352960200421
+        },
+        "vader": {
+            "compound": -0.296,
+            "positive": 0.0,
+            "neutral": 0.845,
+            "negative": 0.155
+        }
+    },
+    {
+        "text": "@End_Bigotry @Bruciebabe @chezkig1 @edulixavot34 @MaxBlumenthal Human rights record of animals living in Palestine. http://t.co/qJcII9wcWi",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.43125399810992726,
+            "Not Cyberbullying": 0.5687460018900728
+        },
+        "vader": {
+            "compound": 0.0,
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "im hoping my stress level will go down when my aunt is gone... i cant relax, am exhausted, and can't focus on a dam\u2026 https://t.co/7eRvPZ4rpS",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.43151600382000427,
+            "Not Cyberbullying": 0.5684839961799955
+        },
+        "vader": {
+            "compound": -0.0762,
+            "positive": 0.158,
+            "neutral": 0.675,
+            "negative": 0.167
+        }
+    },
+    {
+        "text": "RT @Femitheist: I\u2019m gay. And I want my kid to be gay, too. http://t.co/8wSD8zbgYE",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.43186335289963024,
+            "Not Cyberbullying": 0.5681366471003697
+        },
+        "vader": {
+            "compound": 0.0772,
+            "positive": 0.091,
+            "neutral": 0.909,
+            "negative": 0.0
+        }
+    },
+    {
+        "text": "yes & i cant fucking wait!  I can hardly bring myself to review - i must but dont want to.",
+        "true_label": "Cyberbullying",
+        "predicted_label": "Not Cyberbullying",
+        "probabilities": {
+            "Cyberbullying": 0.4321113250343847,
+            "Not Cyberbullying": 0.5678886749656151
+        },
+        "vader": {
+            "compound": 0.2045,
+            "positive": 0.1,
+            "neutral": 0.838,
+            "negative": 0.062
+        }
+    }
+]

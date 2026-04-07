@@ -1,0 +1,38 @@
+{
+  "vanilla": {
+    "accuracy": 0.8085,
+    "macro_f1": 0.8045316742059369,
+    "per_class_f1": {
+      "age": 0.9702127659574468,
+      "ethnicity": 0.9146341463414634,
+      "gender": 0.8120063191153238,
+      "not_cyberbullying": 0.5654135338345865,
+      "other_cyberbullying": 0.6175548589341693,
+      "religion": 0.9473684210526315
+    }
+  },
+  "concat": {
+    "accuracy": 0.819,
+    "macro_f1": 0.814385314580207,
+    "per_class_f1": {
+      "age": 0.96875,
+      "ethnicity": 0.9282442748091603,
+      "gender": 0.8204334365325078,
+      "not_cyberbullying": 0.5728,
+      "other_cyberbullying": 0.6517189835575485,
+      "religion": 0.9443651925820257
+    }
+  },
+  "sga": {
+    "accuracy": 0.809,
+    "macro_f1": 0.8040504228364934,
+    "per_class_f1": {
+      "age": 0.9633802816901409,
+      "ethnicity": 0.9218989280245024,
+      "gender": 0.810477657935285,
+      "not_cyberbullying": 0.5654135338345865,
+      "other_cyberbullying": 0.6045016077170418,
+      "religion": 0.9586305278174037
+    }
+  }
+}

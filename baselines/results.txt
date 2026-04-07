@@ -1,0 +1,80 @@
+
+==============================
+Model: Logistic Regression
+Accuracy: 0.8800
+F1 Score: 0.8827
+Time: 1.49s
+Classification Report:
+                     precision    recall  f1-score   support
+
+  not_cyberbullying       0.57      0.57      0.57       926
+             gender       0.94      0.86      0.90      1529
+           religion       0.97      0.95      0.96      1667
+other_cyberbullying       0.60      0.72      0.65       994
+                age       0.97      0.97      0.97      1885
+          ethnicity       0.99      0.98      0.98      1985
+
+           accuracy                           0.88      8986
+          macro avg       0.84      0.84      0.84      8986
+       weighted avg       0.89      0.88      0.88      8986
+
+
+==============================
+Model: Random Forest
+Accuracy: 0.8863
+F1 Score: 0.8879
+Time: 36.82s
+Classification Report:
+                     precision    recall  f1-score   support
+
+  not_cyberbullying       0.61      0.56      0.58       926
+             gender       0.93      0.87      0.90      1529
+           religion       0.97      0.95      0.96      1667
+other_cyberbullying       0.59      0.72      0.65       994
+                age       0.99      0.98      0.98      1885
+          ethnicity       0.99      0.99      0.99      1985
+
+           accuracy                           0.89      8986
+          macro avg       0.85      0.85      0.84      8986
+       weighted avg       0.89      0.89      0.89      8986
+
+
+==============================
+Model: Decision Tree
+Accuracy: 0.8631
+F1 Score: 0.8654
+Time: 2.57s
+Classification Report:
+                     precision    recall  f1-score   support
+
+  not_cyberbullying       0.52      0.54      0.53       926
+             gender       0.90      0.88      0.89      1529
+           religion       0.95      0.93      0.94      1667
+other_cyberbullying       0.55      0.59      0.57       994
+                age       0.98      0.97      0.97      1885
+          ethnicity       0.98      0.98      0.98      1985
+
+           accuracy                           0.86      8986
+          macro avg       0.82      0.82      0.82      8986
+       weighted avg       0.87      0.86      0.87      8986
+
+
+==============================
+Model: Naive Bayes
+Accuracy: 0.8431
+F1 Score: 0.8363
+Time: 0.01s
+Classification Report:
+                     precision    recall  f1-score   support
+
+  not_cyberbullying       0.67      0.47      0.55       926
+             gender       0.89      0.85      0.87      1529
+           religion       0.88      0.96      0.92      1667
+other_cyberbullying       0.60      0.58      0.59       994
+                age       0.87      0.96      0.91      1885
+          ethnicity       0.91      0.94      0.92      1985
+
+           accuracy                           0.84      8986
+          macro avg       0.80      0.79      0.79      8986
+       weighted avg       0.84      0.84      0.84      8986
+

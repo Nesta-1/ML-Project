@@ -1,0 +1,12 @@
+
+--- Verification Results ---
+Text                 | Expected             | Predicted            | Category             | Prob(Bullying) 
+---------------------------------------------------------------------------------------------------------
+gay                  | gender               | Cyberbullying        | gender               | 1.0000 | PASS
+terrorist            | religion             | Cyberbullying        | religion             | 1.0000 | PASS
+nigger               | ethnicity            | Cyberbullying        | ethnicity            | 1.0000 | PASS
+kill yourself        | other_cyberbullying  | Cyberbullying        | other_cyberbullying  | 1.0000 | PASS
+fk you               | other_cyberbullying  | Cyberbullying        | other_cyberbullying  | 1.0000 | PASS
+hello world          | not_cyberbullying    | Cyberbullying        | gender               | 0.9700 | FAIL
+school shooter       | age                  | Cyberbullying        | age                  | 1.0000 | PASS
+you are a bitch      | gender               | Cyberbullying        | gender               | 1.0000 | PASS
