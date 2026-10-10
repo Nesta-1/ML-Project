@@ -414,73 +414,7 @@ st.markdown("""
 
 from sklearn.preprocessing import LabelEncoder
 
-def render_comparison_page():
-    st.markdown("""
-    <div class="app-hero">
-        <span class="hero-logo">📈</span>
-        <h1 class="hero-title">Model Performance Comparison</h1>
-    </div>
-    """, unsafe_allow_html=True)
-    
-    # Load results
-    base_dir = os.path.dirname(os.path.abspath(__file__))
-    results_path = os.path.join(base_dir, "sga_net", "results", "comparison_results.json")
-    
-    if not os.path.exists(results_path):
-        st.warning(f"Results file not found at {results_path}. Please run training evaluation first.")
-        return
 
-    try:
-        with open(results_path, "r") as f:
-            results = json.load(f)
-    except Exception as e:
-        st.error(f"Error loading results: {e}")
-        return
-
-    if not results:
-        st.info("No results found in the file.")
-        return
-
-    # Create comparison table
-    data = []
-    for model_name, metrics in results.items():
-        data.append({
-            "Model": model_name.upper(),
-            "Accuracy": metrics.get("accuracy", 0),
-            "Macro F1": metrics.get("macro_f1", 0),
-            "Test Loss": metrics.get("test_loss", 0)
-        })
-    
-    if data:
-        df = pd.DataFrame(data).set_index("Model")
-        st.markdown("### 📊 Metrics Overview")
-        st.table(df.style.format("{:.4f}").highlight_max(axis=0, subset=["Accuracy", "Macro F1"]))
-
-        # Bar chart
-        st.markdown("### 🏆 Performance Comparison")
-        df_melted = df.reset_index().melt(id_vars="Model", value_vars=["Accuracy", "Macro F1"], var_name="Metric", value_name="Score")
-        
-        fig = px.bar(df_melted, x="Model", y="Score", color="Metric", barmode="group",
-                     color_discrete_sequence=["#6366f1", "#8b5cf6"],
-                     title="Accuracy vs F1 Score")
-        fig.update_layout(paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)", font_color="#e2e8f0")
-        st.plotly_chart(fig, use_container_width=True)
-
-    # Per-class F1 Heatmap
-    st.markdown("### 🧬 Per-Class F1 Scores")
-    
-    class_data = {}
-    for model_name, metrics in results.items():
-        if "per_class_f1" in metrics:
-            class_data[model_name.upper()] = metrics["per_class_f1"]
-            
-    if class_data:
-        df_class = pd.DataFrame(class_data).T
-        fig2 = px.imshow(df_class, text_auto=".2f", aspect="auto",
-                         color_continuous_scale="Viridis",
-                         title="F1 Score by Cyberbullying Type")
-        fig2.update_layout(paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)", font_color="#e2e8f0")
-        st.plotly_chart(fig2, use_container_width=True)
 
 
 # Curated profanity / slur word list for profanity_score feature
@@ -491,6 +425,7 @@ _PROFANITY_WORDS = frozenset([
     'kill', 'hate', 'stfu', 'wtf', 'fk', 'fck', 'sht', 'btch', 'negro',
     'nigger', 'faggot', 'fag', 'dyke', 'homo', 'terrorist', 'kys',
     'suicide', 'rape', 'molest', 'freak', 'creep', 'psycho', 'weirdo',
+    'sexist', 'pig', 'monkey', 'trashy', 'racist', 'nazi', 'incel'
 ])
 
 
@@ -507,6 +442,23 @@ class CyberbullyingClassifier:
         """Enhanced text preprocessing"""
         try:
             text = text.lower()
+            
+            # Handle common text obfuscation (like b*tch, a$$hole)
+            obfuscations = {
+                r'b[\*!@#\$]+tch': 'bitch',
+                r'f[\*!@#\$]+ck': 'fuck',
+                r'sh[\*!@#\$]+t': 'shit',
+                r'a[\$@!]+hole': 'asshole',
+                r'c[\*!@#\$]+nt': 'cunt',
+                r'n[\*!@#\$]+gga': 'nigga',
+                r'n[\*!@#\$]+gg[e3]r': 'nigger',
+                r'w[\*!@#\$]+re': 'whore',
+                r'sl[\*!@#\$]+t': 'slut',
+                r'd[\*!@#\$]+ck': 'dick'
+            }
+            for pattern, repl in obfuscations.items():
+                text = re.sub(pattern, repl, text)
+                
             text = emoji.demojize(text, delimiters=(" ", " "))
             text = re.sub(r'[^a-zA-Z\s]', '', text)
             
@@ -769,8 +721,14 @@ class CyberbullyingClassifier:
                 prob_bullying = np.max(probabilities)
                 prob_safe = 1.0 - prob_bullying
 
-            # Threshold Logic (0.60)
-            THRESHOLD = 0.60
+            # Heuristic Boost: If explicit profanity is found or negative VADER sentiment
+            has_profanity = any(word in _PROFANITY_WORDS for word in tokens)
+            if has_profanity or vader['compound'] <= -0.15:
+                prob_bullying = max(prob_bullying, 0.75)
+                prob_safe = 1.0 - prob_bullying
+
+            # Threshold Logic (lowered to 0.50 to catch more subtle toxicity)
+            THRESHOLD = 0.50
             specific_category = None
             
             if prob_bullying > THRESHOLD:
@@ -861,11 +819,7 @@ with st.sidebar:
     </div>
     """, unsafe_allow_html=True)
     
-    page = st.radio("Navigation", ["🛡️ Classifier", "📈 Model Comparison"], label_visibility="collapsed")
-
-if page == "📈 Model Comparison":
-    render_comparison_page()
-    st.stop()
+    # Navigation removed since Model Comparison was removed.
 
 # Main content — single Test page, centered
 st.markdown("""
