@@ -1,10 +1,10 @@
 # CyberGuard AI - Project Overview
 
 ## 1. What Your Project Is
-Your project is **CyberGuard AI**, an advanced machine learning pipeline designed to automatically detect and classify cyberbullying in online text (specifically tweets). It categorizes social media text into specific forms of bullying such as age, gender, ethnicity, and religion. It serves as a rapid, interpretable content moderation system.
+My project is **CyberGuard AI**, an advanced machine learning pipeline designed to automatically detect and classify cyberbullying in online text (specifically tweets). It categorizes social media text into specific forms of bullying such as age, gender, ethnicity, and religion. It serves as a rapid, interpretable content moderation system.
 
 ## 2. Technologies Used
-You have built this using a robust Python ecosystem for data science and web development:
+I have built this using a robust Python ecosystem for data science and web development:
 *   **Web Framework:** `streamlit` (for the interactive frontend UI).
 *   **Data Processing:** `pandas`, `numpy`.
 *   **Machine Learning Core:** `scikit-learn` (for base models, TF-IDF, pipelines), `xgboost` (meta-learner).
@@ -13,8 +13,8 @@ You have built this using a robust Python ecosystem for data science and web dev
 *   **Data Visualization:** `plotly` (interactive charts in the UI).
 *   **Model Persistence:** `joblib` (for saving and loading the trained pipeline).
 
-## 3. Your Architecture
-You have implemented a **Stacking Ensemble Architecture**:
+## 3. My Architecture
+I have implemented a **Stacking Ensemble Architecture**:
 *   **Feature Engineering (The Pipeline):** Your model takes raw text and applies multiple custom transformations. It uses a `ColumnTransformer` combining Word-level TF-IDF, Character-level TF-IDF (to catch misspelled insults), Masked text TF-IDF, and VADER numeric sentiment scores.
 *   **Base Estimators:** You are using three diverse traditional ML models to process these features:
     1.  Calibrated Linear SVC (Support Vector Classifier)
@@ -23,9 +23,9 @@ You have implemented a **Stacking Ensemble Architecture**:
 *   **Meta-Learner:** The probabilistic outputs of the three base models are fed into an **XGBoost Classifier**, which acts as the meta-learner to make the final, highly accurate prediction.
 
 ## 4. Main Ideology / Core Innovation
-Your core ideology is to provide a **computationally lightweight and highly interpretable alternative to slow, expensive "black-box" Deep Learning models (like BERT)**. 
+The core ideology is to provide a **computationally lightweight and highly interpretable alternative to slow, expensive "black-box" Deep Learning models (like BERT)**. 
 
-You achieved this by substituting heavy neural networks with intelligent, domain-specific feature engineering. Key innovations include:
+I achieved this by substituting heavy neural networks with intelligent, domain-specific feature engineering. Key innovations include:
 *   **Class-Aware Demographic Proximity:** Calculating the syntactic distance between demographic keywords (e.g., "muslim", "woman") and toxic insults to understand *who* the insult is directed at.
 *   **Interaction Masking:** Distinguishing between the "Target" (you, them) and the "Self" (I, me) to prevent false positives in self-deprecating humor.
 *   **Text Normalization:** Decoding common obfuscation techniques (like "@sshole").
@@ -42,7 +42,7 @@ The configured Stacking Ensemble model demonstrates exceptional performance, riv
 *   It maintains sub-second inference times and low memory overhead, making it viable for live social media APIs edge deployment.
 
 ## 7. How to Run Your Project
-To run the application, open your terminal (PowerShell) in the project directory (`c:\Nesta\KL\SEM 4\ML Project`) and follow these steps:
+To run the application, open your terminal (PowerShell) in the project directory and follow these steps:
 
 1.  **Activate your virtual environment**:
     ```powershell
